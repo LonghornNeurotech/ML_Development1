@@ -3,7 +3,7 @@
 This is a folder of the models researched and developed by ML Team 1, trained on LHNT offline data. Below are the models and their input shapes
 
 1. ATC_Net - 16 channels x 1750 time points
-2. PCNN - 16 channels x 125 time points
+2. PCNN - 16 channels x 125 time points, use the **PCNN 3Branch** class, not the adapted one
 3. CNN - 16 channels x 875 time points
 4. CNN_attn - 16 channels x 187
 
