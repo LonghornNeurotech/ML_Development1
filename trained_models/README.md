@@ -16,3 +16,6 @@ This is a folder of the models researched and developed by ML Team 1, trained on
 4. shape your inputs to be compatible with the model's inputs (generally just modify the input length (time steps))
 5. use model.predict(input sample) to make a binary prediction
 
+
+TODO: add run, preprocess, model scripts for each model
+
